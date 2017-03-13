@@ -1,0 +1,10 @@
+table, th, td {
+  border-collapse: collapse;
+  border: 1px solid #CF2A34;
+  margin: 2em;
+  padding: 1em;
+}
+
+caption{
+  margin: 1em;
+}
